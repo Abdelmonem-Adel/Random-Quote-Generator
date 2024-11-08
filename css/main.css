@@ -1,0 +1,60 @@
+/* 
+font-family: "Rakkas", serif;
+font-family: "Edu AU VIC WA NT Pre", cursive;
+*/
+
+body{
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    vertical-align: middle;
+}
+
+header{
+    background-image: url(../bg.png);
+    height: 100vh;
+    background-position: bottom;
+    background-size: cover;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 55px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+    margin: 0;
+    color: aliceblue;
+    
+}
+
+
+button{
+    background-color: #fff;
+    padding: 20px 50px;
+    margin-top: 20px;
+    border-radius: 30px;
+    border: solid #000;
+    font-family: "Montserrat", sans-serif;
+    font-size:20px;
+    font-weight: 700;
+    transition: all .3s;
+}
+
+button:hover{
+    background-color: transparent;
+}
+
+p{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    font-size: 28px;
+    font-weight: 600;
+    
+
+}
+
+span{
+    font-size: 18px;
+    font-weight: 600;
+   
+}
